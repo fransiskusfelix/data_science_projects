@@ -17,6 +17,14 @@ The repository is organized as follows:
 - `reports/`: This directory contains project reports, summaries, and any visualizations generated from the data analysis. It may include both intermediate and final reports.
 - `docs/`: This directory contains project documentation, including the project scope, methodology, and any relevant references or resources.
 
+# Project Desriptions
+
+These projects were completed for Practicum's / TripeTen Data Scientist professional training programs.
+
+| Project name | Description | Libraries used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Real Estate Analysis](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
+
 ## Contact
 
 If you have any questions, suggestions, or feedback regarding this project, please feel free to reach out to me. You can contact me via the following channels:
