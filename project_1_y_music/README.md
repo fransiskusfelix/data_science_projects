@@ -28,4 +28,4 @@ Test three hypotheses:
 
 ## Datasets:
 
-- [music_project_en.csv](datasets)
+- [music_project_en.csv](practicum-ds-projects/datasets/music_project_en.csv)
