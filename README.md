@@ -16,3 +16,12 @@ The repository is organized as follows:
 - `models/`: This directory stores the trained models generated during the project. It may also include any serialized objects or files related to the models.
 - `reports/`: This directory contains project reports, summaries, and any visualizations generated from the data analysis. It may include both intermediate and final reports.
 - `docs/`: This directory contains project documentation, including the project scope, methodology, and any relevant references or resources.
+
+## Contact
+
+If you have any questions, suggestions, or feedback regarding this project, please feel free to reach out to me. You can contact me via the following channels:
+
+- Email: [fransiskusfelix@gmail.com](mailto:fransiskusfelix@gmail.com)
+- GitHub Issues: [https://github.com/your-username/data-science-project/issues](https://github.com/your-username/data-science-project/issues)
+
+Thank you for your interest in our data science project. We hope you find it informative and insightful!
