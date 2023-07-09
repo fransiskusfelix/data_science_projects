@@ -1,8 +1,6 @@
 ## Introduction
 
-The task is to prepare a report for the credit division of a bank. I will investigate the influence of a customer's marital status and the number of children they have on the probability of defaulting on loan repayment. The bank already has some data on the creditworthiness of its customers.
-
-The report will be considered when making credit assessments for prospective customers. Credit assessments are used to evaluate the ability of potential borrowers to repay their loans.
+The task is to to study the dataset from the past few years and determine the factors that affect the price of a vehicle.
 
 ## Objectives
 
@@ -38,5 +36,5 @@ Dataset contains the following columns:
 
 ## Datasets:
 
-- [credit_scoring_eng.csv](https://github.com/fransiskusfelix/practicum-ds-projects/blob/main/datasets/credit_scoring_eng.csv)
+- [vehicles_us.csv](https://github.com/fransiskusfelix/practicum-ds-projects/blob/main/datasets/vehicles_us.csv)
 
