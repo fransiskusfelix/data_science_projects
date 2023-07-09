@@ -20,7 +20,7 @@ These projects were completed for Practicum's / TripeTen Data Scientist professi
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Real Estate Analysis](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
+| [Project 1 - Y Music](project_1_y_music) | Comparing the music preferences of users in the cities of Springfield and Shelbyville. Studying actual Y.Music data to test the hypotheses and compare user behavior in these two cities. | *pandas*|
 
 ## Contact
 
