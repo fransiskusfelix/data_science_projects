@@ -10,12 +10,9 @@ In this project, I aim to solve a specific problem or address a particular quest
 
 The repository is organized as follows:
 
-- `data/`: This directory contains the raw and processed datasets used in the project. It may also include any additional data sources or files required for analysis.
-- `notebooks/`: This directory contains Jupyter notebooks that showcase the data analysis, feature engineering, model development, and visualization steps. Each notebook is labeled with a descriptive name that reflects its purpose.
-- `scripts/`: This directory contains any additional scripts or code files used in the project, such as utility functions, data preprocessing scripts, or model evaluation scripts.
-- `models/`: This directory stores the trained models generated during the project. It may also include any serialized objects or files related to the models.
-- `reports/`: This directory contains project reports, summaries, and any visualizations generated from the data analysis. It may include both intermediate and final reports.
-- `docs/`: This directory contains project documentation, including the project scope, methodology, and any relevant references or resources.
+- `project_x/`: This directory contains every project I completed.
+- `datasets/`: This directory contains the raw and processed datasets used in the project. It may also include any additional data sources or files required for analysis.
+
 
 # Project Desriptions
 
