@@ -22,6 +22,7 @@ These projects were completed for Practicum's / TripeTen Data Scientist professi
 | :---------------------- | :---------------------- | :---------------------- |
 | [Project 1 - Y Music](project_1_y_music) | Comparing the music preferences of users in the cities of Springfield and Shelbyville. Studying actual Y.Music data to test the hypotheses and compare user behavior in these two cities. | *pandas*|
 | [Project 2 - Credit Scoring](project_2_credit_scoring) | Preparing a report for the credit division of a bank. Investigating the influence of a customer's marital status and the number of children they have on the probability of defaulting on loan repayment. | *pandas*, *seaborn*|
+| [Project 3 - Analyzing Factors Affecting Vehicle Prices](project_3_analyzing_factors_affecting_vehicle_prices) | Studying the dataset from the past few years and determine the factors that affect the price of a vehicle. | *pandas*, *matpotlib*|
 
 ## Contact
 
