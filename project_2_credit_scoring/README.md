@@ -35,5 +35,5 @@ Testing these hypotheses:
 
 ## Datasets:
 
-- [music_project_en.csv](https://github.com/fransiskusfelix/practicum-ds-projects/blob/main/datasets/credit_scoring_eng.csv)
+- [credit_scoring_eng.csv](https://github.com/fransiskusfelix/practicum-ds-projects/blob/main/datasets/credit_scoring_eng.csv)
 
